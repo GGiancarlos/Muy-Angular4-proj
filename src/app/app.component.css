@@ -1,0 +1,11 @@
+h1 {
+    text-decoration:underline;
+}
+.red-title {
+    color:red;
+    font-size: 25px;
+}
+.green-title {
+    color: green;
+    font-size: 50px;
+}
