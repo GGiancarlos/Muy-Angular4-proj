@@ -8,7 +8,7 @@ export class DataService {
   cars = ['Toyota', 'Chevrolet', 'Nissan', 'Mazda'];
 
   myData() {
-    return 'This is my Data!';
+    return 'This is the data from mye service!';
   }
 
 }
