@@ -10,7 +10,7 @@ describe('my-angular-project App', () => {
   it('should display welcome message', done => {
     page.navigateTo();
     page.getParagraphText()
-      .then(msg => expect(msg).toEqual('Welcome to app!!'))
+      .then(msg => expect(msg).toEqual('Welcome to My First Angular App!!'))
       .then(done, done.fail);
   });
 });
